@@ -1,8 +1,8 @@
 // Sidebar requirements from flowbite
 import { Sidebar } from 'flowbite-react';
-import { BiBuoy } from 'react-icons/bi';
-import { HiArrowSmRight, HiChartPie, HiInbox, HiOutlineCloudUpload, HiShoppingBag, HiTable, HiUser, HiViewBoards } from 'react-icons/hi';
-import admin from '../assets/me.jpeg'
+// import { BiBuoy } from 'react-icons/bi';
+import { HiArrowSmRight, HiChartPie, HiInbox, HiOutlineCloudUpload, HiShoppingBag, HiTable, HiUser } from 'react-icons/hi';
+// import admin from '../assets/me.jpeg'
 import { useContext } from 'react';
 import {AuthContext} from "../context/AuthProvider"
 const SideBar = () => {
